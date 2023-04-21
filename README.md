@@ -2,9 +2,9 @@
 
 <!--
 **prachisharma21/prachisharma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:-->
-I'm Prachi Sharma, a theoretical physicist trying to find her way to get into industry. 
+My name is Prachi Sharma, a theoretical physicist trying to find her way to get into industry. 
 
-- 👩‍🔬 Here is my professional website- 
+- 👩‍🔬 Here is my professional website- https://prachisharma21.github.io/
 - 🔭 I’m currently looking for industry jobs
 - 🌱 I’m currently learning to code and understand quantum computing 
 - 💬 Ask me about condensed matter physics 
