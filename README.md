@@ -11,5 +11,5 @@ My name is Prachi Sharma, a theoretical physicist trained in quantum many-body p
 - 📫 How to reach me: prachi16490@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I'm learning to swim.
-- 
+  
 
