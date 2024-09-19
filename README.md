@@ -7,7 +7,7 @@ I am Prachi Sharma, a theoretical physicist trained in quantum many-body physics
 <!-- 👩‍🔬 Here is my professional website which is under construction- https://prachisharma21.github.io/ -->
 - 👩‍🔬 Here is my [Google scholar page](https://scholar.google.com/citations?hl=en&user=lN-ulnUAAAAJ&view_op=list_works&sortby=pubdate)
 - 🔭 I’m actively looking for jobs in the Quantum computing industry. 
-- 💬 Ask me about condensed matter physics, many-body theory, quantum algorithms, noise modeling, DFT, etc. 
+- 💬 Ask me about quantum algorithms, noise modeling, quantum error mitigation methods, condensed matter physics, many-body theory, DFT, etc. 
 - 📫 How to reach me: prachi16490@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I'm learning to swim.
